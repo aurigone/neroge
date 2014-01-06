@@ -1,0 +1,1 @@
+./renpy/renpy.sh ./neroge/
